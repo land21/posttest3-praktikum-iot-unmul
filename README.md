@@ -1,32 +1,37 @@
-POSTTEST3_IOT-A_UNMUL
+# POSTTEST3_IOT-A_UNMUL
 
 Kelompok 2 :
 1. Ega Sulfika (2009106011)
 2. Mitha Amalia (2009106028)
 3. Alan Nuzulan (2009196032)
 
-Judul Studi Kasus :
-Controlling & Monitoring Sistem Pendeteksi Api Menggunakan Platform MQTT Panel
+<br><br><h1><b>Controlling & Monitoring Sistem Pendeteksi Api Menggunakan Platform MQTT Panel</b></h1><br>
 
-Deskripsi :
-Alat mendeteksi Api dan menyalakan buzzer serta LED untuk memberikan peringatan, dengan cara kerja Sensor akan mendeteksi Api dan jika terdeteksi ada Api maka Buzzer dan LED akan menyala sebagai tanda
+<b>Deskripsi :</b>
+<p>Alat mendeteksi Api dan menyalakan buzzer serta LED untuk memberikan peringatan, dengan cara kerja Sensor akan mendeteksi Api dan jika terdeteksi ada Api maka Buzzer dan LED akan menyala sebagai tanda</p>
 
-Metode IoT :
-Controlling & Monitoring Sistem Pendeteksi Api Menggunakan Platform MQTT Panel
+<br><b>Metode IoT :</b>
+<p>Controlling & Monitoring Sistem Pendeteksi Api Menggunakan Platform MQTT Panel</p>
 
-Pembagian Tugas per Individu :
+<br><b>Pembagian Tugas per Individu :</b>
 1. Ega Sulfika = Mengatur konfigurasi Publisher
 2. Mitha Amalia = Pembuatan Rangkaian dan mengatur platform iot
 3. Alan Nuzulan = Mengatur konfigurasi Subscriber
 
-Komponen yang Digunakan :
-5 Channel Sensor Api 
-Buzzer 
-LED 
-Node MCU 
-Resistor 
-BreadBoard 
-Kabel Jumper Female Male 
-Kabel Jumper Male Male 
+<br><b>Komponen yang Digunakan :</b>
+1. 5 Channel Sensor Api 
+2. Buzzer 
+3. LED 
+4. Node MCU 
+5. Resistor 
+6. BreadBoard 
+7. Kabel Jumper Female Male 
+8. Kabel Jumper Male Male 
 
-Board Schematic (Dirancang sendiri menggunakan Wokwi / Tinkercad / Fritzing ) :
+<br><b>Board Schematic (Fritzing ) :</b>
+![Skematik Posttest 3_bb](https://user-images.githubusercontent.com/69804370/236658677-e3f76e87-e86e-47ba-ae84-3a7c8a89482b.jpg)
+
+
+<br>LINK VIDEO : <a href="https://youtu.be/s2KMoXvKG5o">KELOMPOK 2 IOT A 2020</a>
+
+<br><br><br>@2023
