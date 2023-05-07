@@ -29,7 +29,9 @@ Kelompok 2 :
 8. Kabel Jumper Male Male 
 
 <br><b>Board Schematic (Fritzing ) :</b>
-![Skematik Posttest 3_bb](https://user-images.githubusercontent.com/69804370/236658677-e3f76e87-e86e-47ba-ae84-3a7c8a89482b.jpg)
+<img src="![Skematik Posttest 3_bb](https://user-images.githubusercontent.com/69804370/236658677-e3f76e87-e86e-47ba-ae84-3a7c8a89482b.jpg)" alt="Publisher" style="width:500px">
+
+
 
 
 <br>LINK VIDEO : <a href="https://youtu.be/s2KMoXvKG5o">KELOMPOK 2 IOT A 2020</a>
