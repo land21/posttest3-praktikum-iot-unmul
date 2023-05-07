@@ -29,8 +29,11 @@ Kelompok 2 :
 8. Kabel Jumper Male Male 
 
 <br><b>Board Schematic (Fritzing ) :</b>
-<br><img src="https://user-images.githubusercontent.com/69804370/236658677-e3f76e87-e86e-47ba-ae84-3a7c8a89482b.jpg" alt="Publisher" style="height:600px;">
+1. Publisher 
+<br><img src="https://user-images.githubusercontent.com/69804370/236658677-e3f76e87-e86e-47ba-ae84-3a7c8a89482b.jpg" alt="Publisher" style="height:600px;"><br>
 
+2. Subsriber
+<br><img src="https://user-images.githubusercontent.com/69804370/236658991-3bf5202e-a6f9-4cda-9e0a-7ed9e54e7dc8.jpg" alt="Subsriber" style="height:600px;">
 
 
 
